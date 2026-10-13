@@ -68,7 +68,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dretiredtimur-boop&query=%24&label=🍺%20пива%20выпито&color=F7A41D&style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://komarev.com/ghpvc/?username=retiredtimur-boop&label=🍺+пива+выпито&color=F7A41D&style=for-the-badge" />
 </p>
-
 <h3 align="center">🍖 "Сначала шашлык, потом код. Или наоборот. Как пойдёт." 🍺</h3>
