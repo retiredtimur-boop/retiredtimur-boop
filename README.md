@@ -42,9 +42,7 @@
 
 ### 🍻 График активности (в кружках пива)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retiredtimur-boop&theme=gruvbox&bg_color=1a1a1a&color=F7A41D&line=F7A41D&point=ffffff" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=gruvbox&bg_color=1a1a1a&color=F7A41D&line=F7A41D&point=ffffff)](https://github.com/retiredtimur-boop)
 
 ---
 
