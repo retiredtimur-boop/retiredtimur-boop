@@ -51,9 +51,8 @@
 ### 🏆 Мои трофеи
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=retiredtimur-boop&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://trophy.ryglcloud.net/?username=retiredtimur-boop&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ### 🎯 Мои цели на этот год
