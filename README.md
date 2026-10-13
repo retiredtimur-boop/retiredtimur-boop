@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🍺_пива_выпито-999-F7A41D?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fretiredtimur-boop%2Fretiredtimur-boop%2Fmain%2Fbeer.json&query=%24.count&label=🍺%20Пива%20выпито&color=F7A41D&style=for-the-badge&logo=budweiser&logoColor=white" />
 </p>
 
 <h3 align="center">🍖 "Сначала шашлык, потом код. Или наоборот. Как пойдёт." 🍺</h3>
