@@ -34,15 +34,25 @@
 ### 📊 Моя статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=retiredtimur-boop&show_icons=true&theme=gruvbox&title_color=F7A41D" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=retiredtimur-boop&show_icons=true&theme=gruvbox&title_color=F7A41D&icon_color=F7A41D" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=retiredtimur-boop&theme=gruvbox" height="180"/>
 </p>
 
 ---
 
-### 🍻 График активности (в кружках пива)
+### 📈 Топ языков
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=retiredtimur-boop&theme=gruvbox&bg_color=1a1a1a&color=F7A41D&line=F7A41D&point=ffffff)](https://github.com/retiredtimur-boop)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retiredtimur-boop&layout=compact&theme=gruvbox&title_color=F7A41D" />
+</p>
+
+---
+
+### 🏆 Мои трофеи
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=retiredtimur-boop&theme=gruvbox&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
