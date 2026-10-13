@@ -68,6 +68,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=retiredtimur-boop&label=🍺+пива+выпито&color=F7A41D&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=retiredtimur-boop&label=🍺выпито&color=F7A41D&style=for-the-badge" />
 </p>
 <h3 align="center">🍖 "Сначала шашлык, потом код. Или наоборот. Как пойдёт." 🍺</h3>
